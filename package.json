@@ -1,0 +1,29 @@
+{
+  "name": "flowerbox-3d",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --inline --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CampbellOwen/FlowerBox3D"
+  },
+  "keywords": [],
+  "author": "Owen Campbell",
+  "license": "MIT",
+  "devDependencies": {
+    "awesome-typescript-loader": "latest",
+    "css-loader": "latest",
+    "html-webpack-plugin": "latest",
+    "progress-bar-webpack-plugin": "latest",
+    "style-loader": "latest",
+    "typescript": "latest",
+    "webpack": "latest",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "latest"
+  },
+  "dependencies": {
+    "three": "latest"
+  }
+}
