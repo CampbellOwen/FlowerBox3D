@@ -2,6 +2,7 @@
   "name": "flowerbox-3d",
   "version": "1.0.0",
   "main": "index.js",
+  "description": "Recreaton of Andrew Bliss's classic SSFLWBOX.SCR screensaver in three.js",
   "scripts": {
     "start": "webpack-dev-server --inline --open"
   },
